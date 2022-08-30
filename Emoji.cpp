@@ -7,6 +7,6 @@ main(){
 	circle(200,250,40);
 	circle(380,250,40);
 	line(200,400,400,400);
-	cout<<"Ankit first graphic program";
+	cout<<"Ankit first graphic programs";
 	getch();
 }
